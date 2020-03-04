@@ -1,0 +1,3 @@
+class SpiceFinder::CLI 
+  
+end
