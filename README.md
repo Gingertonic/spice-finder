@@ -1,28 +1,14 @@
 # SpiceFinder
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/spice_finder`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Find your Spices!
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'spice_finder'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install spice_finder
+Clone me! Then `cd` into spice-finder and run `bundle install`
 
 ## Usage
 
-TODO: Write usage instructions here
+run `bin/spice-finder`
 
 ## Development
 
